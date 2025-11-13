@@ -39,6 +39,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amirnotron&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="amirnotron's GitHub Stats" />
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirnotron&layout=compact&theme=radical" alt="amirnotron's Top Languages" />
-  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amirnotron&theme=radical" alt="amirnotron's GitHub Streak" />
-</p>
