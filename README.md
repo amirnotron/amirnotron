@@ -7,6 +7,8 @@
 * 📫 How to reach me: Discord , Telegram
 * ⚡ Fun fact: It all started with this sentence "Hello world";
 
+---
+
 ### 🤝 Connect with Me
 
 <p align="center">
@@ -44,7 +46,6 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amirnotron&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="amirnotron's GitHub Stats" />
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirnotron&layout=compact&theme=tokyonight" alt="amirnotron's Top Languages" />
 
