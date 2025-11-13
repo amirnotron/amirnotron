@@ -4,7 +4,7 @@
 
 ### Hi there 👋, I'm Amir
 
-* 📫 How to reach me: ...
+* 📫 How to reach me: Discord , Telegram
 * ⚡ Fun fact: It all started with this sentence "Hello world";
 
 ### 🤝 Connect with Me
