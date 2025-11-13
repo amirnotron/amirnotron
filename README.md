@@ -13,7 +13,7 @@
 
 <p align="center">
 <a href="https://t.me/amirnotron" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="amirnotron" /></a>
-<a href="https://discordapp.com/users/YOUR_USER_ID" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-not_notron-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="not_notron" /></a>
+<a href="https://discordapp.com/users/634488416771244076" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-not_notron-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="not_notron" /></a>
 <a href="https://notron.top" target="blank"><img align="center" src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=world&logoColor=white" alt="notron.top" /></a>
 </p>
 
